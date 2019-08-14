@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title></title>
+    <link rel="stylesheet" type="text/css" href="style.css">
+</head>
+<body>
+    <div class="wrap">
+        <div class="header">
+            <h1>Header</h1>
+        </div>
+        <div class="menu">
+            <ul>
+                <li><a href="#">Menu Navigasi</a></li>
+                
+            </ul>
+        </div>
+        <div class="badan">
+            <div class="sidebar">
+                sidebar
+             
+            </div>
+            <div class="content">
+                content
+            </div>
+        </div>
+        <div class="clear"></div>
+        <div class="footer">
+            footer
+        </div>
+    </div>
+</body>
+</html>
